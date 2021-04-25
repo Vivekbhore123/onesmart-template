@@ -1,0 +1,4 @@
+
+<footer>
+<img src="./images/Component 20 – 1.png" alt="footer">
+</footer>
